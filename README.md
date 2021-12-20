@@ -5,14 +5,14 @@
 
 - Currently I'm working on a project on Unity that i adapted Bresenham's circle algorithm to C# in order to obtain a unique gameplay.
 
-- I also have a website dedicated to cats and humor;
-yokomat.com
+- I also have a website dedicated to cats and humor:
+https://yokomat.com
 
 - Besides, i'm learning ai using python, stay tuned ;)
 
 Languages and tools:
 
-c#, lua, c, python, javascript, html, css
+c#, lua, c, python, javascript, html, css,
 Unity, Love2d
 
 
