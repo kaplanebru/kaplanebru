@@ -3,7 +3,7 @@
 
 - I use C# and Lua to mainly try out new game mechanics.
 
-- Currently I'm working on a project on Unity that i adapted Bresenham's circle algorithm to C# in order to obtain a unique gameplay.
+- Currently I'm working on Unity built-in methods and 3rd party addons.
 
 - I also have a website dedicated to cats and humor:
 https://yokomat.com
