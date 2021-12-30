@@ -3,7 +3,7 @@
 
 - I use C# and Lua to mainly try out new game mechanics.
 
-- Currently I'm working on MonoBehaviour methods and 3rd party addons.
+- Currently I'm working on MonoBehaviour methods and Scriptable objects.
 
 - I also have a website dedicated to cats and humor:
 https://yokomat.com
